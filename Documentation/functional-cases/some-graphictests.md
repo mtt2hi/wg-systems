@@ -66,6 +66,8 @@ has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
 </iframe>
 </figure>
 
+
+
 ### Start glmark2-es-wayland at DomD and DomU
 
 The **glmark2-es-wayland** test displays some 3D graphic tests and measures the performance.
