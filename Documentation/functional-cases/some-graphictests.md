@@ -61,7 +61,7 @@ has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
 
 [<img src="images/weston-simple-egl-2.jpg" width="800" >](https://youtu.be/aD1YWc8a1MY "Weston simple EGL application")
 
-
+<img src="images/weston-simple-egl.gif" alt="drawing" />
 
 ### Start glmark2-es-wayland at DomD and DomU
 
@@ -87,16 +87,7 @@ root@h3ulcb-domd:~# glmark2-es2-wayland
 
 [<img src="images/glmark2-es.jpg" width="800" >](https://youtu.be/IwXS_CO2SOo "Glmark2-es-wayland")
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/IwXS_CO2SOo"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
+<img src="images/glmark2-es.gif" alt="drawing" />
 
 ## Results
 
