@@ -59,9 +59,7 @@ has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
 ...
 ```
 
-<img src="images/weston-simple-egl-2.jpg" alt="drawing" width="800"/>
-
-[<img src="images/weston-simple-egl.jpg" width="800" >](https://youtu.be/aD1YWc8a1MY "Weston simple EGL application")
+[<img src="images/weston-simple-egl-2.jpg" width="800" >](https://youtu.be/aD1YWc8a1MY "Weston simple EGL application")
 
 
 
@@ -87,7 +85,8 @@ root@h3ulcb-domd:~# glmark2-es2-wayland
 ...
 ```
 
-<img src="images/glmark2-es.jpg" alt="drawing" width="800"/>
+[<img src="images/glmark2-es.jpg" width="800" >](https://youtu.be/IwXS_CO2SOo "Glmark2-es-wayland")
+
 
 ## Results
 
