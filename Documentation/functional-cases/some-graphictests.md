@@ -61,8 +61,8 @@ has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
 
 <img src="images/weston-simple-egl-2.jpg" alt="drawing" width="800"/>
 
+[<img src="images/weston-simple-egl.jpg" width="800" >](https://youtu.be/aD1YWc8a1MY "Weston simple EGL application")
 
-<img src="images/weston-simple-egl.gif" alt="drawing"/>
 
 
 ### Start glmark2-es-wayland at DomD and DomU
