@@ -61,9 +61,10 @@ has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
 
 <img src="images/weston-simple-egl-2.jpg" alt="drawing" width="800"/>
 
-#![Testvideo](images/weston-simple-egl.mp4)
-
-<img src="images/weston-simple-egl.mp4" alt="drawing" width="800"/>
+<figure class="video_container">
+  <iframe src="images/weston-simple-egl.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 ### Start glmark2-es-wayland at DomD and DomU
 
